@@ -1,3 +1,9 @@
 # Sourdough
 
-<!-- Unpopulated file for sourdough recipes and notes -->
+## Starter notes
+
+<!-- Unpopulated file for sourdough starter maintenance notes -->
+
+## Recipes
+
+<!-- Add sourdough recipes here -->
